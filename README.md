@@ -1,4 +1,2 @@
- Instalación y configuración.
- Uso del programa.
- Créditos.
- Licencia
+git checkout -b crear_cita master
+git branch
