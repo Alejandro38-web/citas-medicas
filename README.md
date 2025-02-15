@@ -4,7 +4,7 @@ Es necesario tener ambiente Java instalado
 #### Instalación
 Clona el proyecto
 
-    git clone https:
+    git clone https:https://github.com/Alejandro38-web/citas-medicas.git
 
 #### Configuración
 
